@@ -7,8 +7,8 @@ import './globals.css'
 const ubuntu = Ubuntu({ subsets: ['latin'], weight: ['400', '500', '700'] });
 
 export const metadata: Metadata = {
-	title: "F13-Cybertech",
-	description: "Kybernetická bezpečnost",
+	title: "AZ-Portfolio",
+	description: "Vítejte na mém portfoliu. Jsem frontend vývojář a tady najdete moje projekty a zkušenosti.",
 };
 
 export default function RootLayout({
